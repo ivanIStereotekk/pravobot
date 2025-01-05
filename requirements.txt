@@ -1,0 +1,16 @@
+certifi==2024.12.14
+charset-normalizer==3.4.1
+django-environ==0.11.2
+idna==3.10
+pinecone==5.4.2
+pinecone-plugin-assistant==0.4.3
+pinecone-plugin-inference==3.1.0
+pinecone-plugin-interface==0.0.7
+pyTelegramBotAPI==4.25.0
+python-dateutil==2.9.0.post0
+requests==2.32.3
+six==1.17.0
+telebot==0.0.5
+tqdm==4.67.1
+typing_extensions==4.12.2
+urllib3==2.3.0
